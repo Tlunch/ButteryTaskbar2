@@ -51,6 +51,14 @@ scoop install CrypticButter/buttery-taskbar
 - The taskbar's visibility is updated each time you switch focus between windows (including opening the Start menu).
 - There is intentionally a short delay after releasing the Windows key before the taskbar is allowed to hide again.
 
+## Contributing
+
+Interested in contributing or learning how the project works? See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- Repository structure and how it works
+- Build system documentation
+- Development setup instructions
+- Step-by-step release process
+
 ## Donations
 
 Bitcoin: `bc1qhgfyn3f2c56xwmsalekfntkxjgj6t73dt4ymjj`
